@@ -110,4 +110,3 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 .idea/sonarlint/
 .idea/vcs.xml
-src/main/resources/
